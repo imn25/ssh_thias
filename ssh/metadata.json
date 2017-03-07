@@ -1,0 +1,45 @@
+{
+  "name": "thias-ssh",
+  "version": "1.0.7",
+  "author": "Matthias Saou",
+  "summary": "SSH module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/thias/puppet-ssh",
+  "project_page": "https://forge.puppetlabs.com/thias/ssh",
+  "issues_url": "https://github.com/thias/puppet-ssh/issues",
+  "dependencies": [
+  
+  ],
+  "tags": [
+    "ssh",
+    "openssh",
+    "sshd"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "pe",
+      "version_requirement": ">=3.0.0 <=2015.4.0"
+    },
+    {
+      "name": "puppet",
+      "version_requirement": ">=2.7.20 <5.0.0"
+    }
+  ],
+  "description": "Install, enable and configure ssh and sshd."
+}

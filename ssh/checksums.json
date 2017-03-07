@@ -1,0 +1,23 @@
+{
+  "CHANGELOG.md": "fd864a671fbf65a7fe289bd1dc17264d",
+  "Gemfile": "b62adc94a4753561d70eb842be6432f6",
+  "LICENSE": "bc2655be219076921f5f9d9ea57bd28b",
+  "README.md": "3a96131e86a055bfacfcce6b13b8932c",
+  "Rakefile": "5b24c6ca9852506a201a1ef6239c3b07",
+  "manifests/params.pp": "91dbf4a5a4e5d8ad5fb4629f4438f984",
+  "manifests/service.pp": "425cbd2fe90f904bc9947264412c5502",
+  "manifests/sshd_config.pp": "09621f22f9542c11c3b7206f51adffe2",
+  "metadata.json": "e1e12176a94b792e7e2f0dbe02c3ad36",
+  "spec/classes/ssh_params_spec.rb": "0fe9f6f5d462abd3965dc98c14e345d3",
+  "spec/classes/ssh_service_spec.rb": "74d4634d4bfc71f049a9de80abbcbcba",
+  "spec/classes/ssh_sshd_config_spec.rb": "70f0119a49d8e8537ed93a5586343c90",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/rhel6/ssh_config.erb": "69908a2d0c5ca21a2b1685defbf4cf8b",
+  "templates/rhel6/ssh_config.orig": "69908a2d0c5ca21a2b1685defbf4cf8b",
+  "templates/rhel6/sshd_config.erb": "49ed1e4130a6f10b187eaa40142a5fe3",
+  "templates/rhel6/sshd_config.orig": "53ad75eb1f2269d23f6e4228353cbca3",
+  "templates/rhel7/ssh_config.erb": "e233b9bb27ac15b968d8016d7be7d7ce",
+  "templates/rhel7/ssh_config.orig": "e233b9bb27ac15b968d8016d7be7d7ce",
+  "templates/rhel7/sshd_config.erb": "a6b4974e0e8622438337aa9895ac22ed",
+  "templates/rhel7/sshd_config.orig": "0440a9608de01c4fa1c1dd6301b568ec"
+}
